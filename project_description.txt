@@ -1,0 +1,12 @@
+ASSIGNMENT SUMMARY
+
+. Link both web pages.
+. Ensure both pages have global navigation.
+. Web pages must have good accessibility.
+
+First web page.
+
+. Talk about yourself as an AltSchool student. Tell about yourself. Your name. Your AltSchool ID. Tell the reason you're in AltSchool. Tell what you want to achieve in AltSchool.
+Second web page.
+
+. Create a form to sign up for AltSchool with all the necessary information/data. Add validation.
